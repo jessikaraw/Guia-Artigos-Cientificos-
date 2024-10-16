@@ -19,6 +19,11 @@ Este projeto visa criar um guia prático para auxiliar estudantes na elaboraçã
 - **Capítulo 3:** Normas de citação e ética.
 - **Conclusão:** Dicas finais e motivação para publicação.
 
+## Links Importantes
+
+- [Product Backlog - GitHub Issues](https://github.com/jessikaraw/Guia-Artigos-Cientificos-/issues)
+- [Quadro Kanban - GitHub Projects](https://github.com/jessikaraw/Guia-Artigos-Cientificos-/projects)
+
 ## Contribuindo
 Estamos participando do #Hacktoberfest e adoramos receber contribuições! Se você estiver interessado em colaborar, por favor, siga estas etapas:
 1. Faça um fork deste repositório.
